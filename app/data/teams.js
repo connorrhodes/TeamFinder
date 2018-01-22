@@ -489,7 +489,7 @@ var teamsArray = [
 			'5'
 		]
 	},{
-		name: 'Generic',
+		name: 'You Basic',
 		photo: 'https://i.imgur.com/YAQP8NF.gif',
 		scores: [
 			'1',
