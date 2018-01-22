@@ -215,10 +215,10 @@
                     <h5 class="white-text">Links</h5>
                     <ul>
                         <li>
-                            <a class="grey-text text-lighten-3" href="/api/friends">API Friends List</a>
+                            <a class="grey-text text-lighten-3" href="/api/teams">API Friends List</a>
                         </li>
                         <li>
-                            <a class="grey-text text-lighten-3" href="https://github.com/connorrhodes/friendfinder">GitHub Repo</a>
+                            <a class="grey-text text-lighten-3" href="https://github.com/connorrhodes/TeamFinder">GitHub Repo</a>
                         </li>
                     </ul>
                 </div>
@@ -273,8 +273,8 @@
                 ]
             };
 
-            // Add user inputs to friends list
-            $.post('/api/friends', userInput)              //https://api.jquery.com/jquery.post/
+            // Add user inputs to teams list
+            $.post('/api/teams', userInput)              //https://api.jquery.com/jquery.post/
                 .done(function (data) {                    //https://api.jquery.com/deferred.done/
 
                     // Set the name and image values of friend match
