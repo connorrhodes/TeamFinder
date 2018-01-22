@@ -507,3 +507,50 @@ var teamsArray = [
 ];
 
 module.exports = teamsArray;
+
+//Fanbases             //Stadiums
+//1 - Dallas
+//2 - Patriots			//Cowboys
+//3 - Packers			//Seahawks
+//4 - Steelers			//Steelers
+//5 - Broncos    -- 1^	//Packers
+//6 - Raiders			//Falcons   -- 1^
+//7 - Seahawks			//Vikings
+//8 - Chicago			//Dolphins
+//9 - Giants			//Colts
+//10 - Philadelphia		//Patriots
+//11 - Ravens			//Ravens
+//12 - Redskins			//Buccaneers
+//13 - 49ers			//Chiefs
+//14 - Browns			//Cardinals
+//15 - Chiefs			//Texans
+//16 - Saints    -- 2^	//Lions
+//17 - Bengals			//Chargers  -- 2^
+//18 - Panthers			//Giants and Jets
+//19 - Jets				//Broncos
+//20 - Lions			//Bengals
+//21 - Bills			//Browns
+//22 - Vikings			//49ers
+//23 - Dolphins			//Red Skins
+//24 - Falcons			//Titans
+//25 - Colts     -- 3^	//Panthers
+//26 - Texans			//Eagles   -- 3^
+//27 - Cardinals		//Bears
+//28 - Buccaneers		//Jaguars
+//29 - Titans			//Saints
+//30 - Jaguars			//Bills 
+//31 - Chargers			//Los Angeles Rams
+//32 - Rams      -- 4^	//Oakland  -- 4^
+
+
+
+
+
+
+
+
+
+
+
+
+
