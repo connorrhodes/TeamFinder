@@ -215,7 +215,7 @@
                     <h5 class="white-text">Links</h5>
                     <ul>
                         <li>
-                            <a class="grey-text text-lighten-3" href="/api/teams">API Friends List</a>
+                            <a class="grey-text text-lighten-3" href="/api/teams">API NFL Teams List</a>
                         </li>
                         <li>
                             <a class="grey-text text-lighten-3" href="https://github.com/connorrhodes/TeamFinder">GitHub Repo</a>
@@ -230,7 +230,7 @@
     <!-- Modal Dialog Displaying Closest Friend Match -->
     <div id="modal1" class="modal">
         <div class="modal-content">
-            <h4>Closest Friend Match</h4>
+            <h4>Closest Team Match</h4>
             <div class="divider"></div>
             <h5 id="userMatch"></h5>
             <img id="userMatchImage" class="materialboxed" width="650" src="">
@@ -277,7 +277,7 @@
             $.post('/api/teams', userInput)              //https://api.jquery.com/jquery.post/
                 .done(function (data) {                    //https://api.jquery.com/deferred.done/
 
-                    // Set the name and image values of friend match
+                    // Set the name and image values of team match
                     $('#userMatch').html(data.matchName);  //http://api.jquery.com/html/
                     $("#userMatchImage").attr("src", data.matchImage);//http://api.jquery.com/attr/
                     // Pop open the modal dialog

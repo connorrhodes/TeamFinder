@@ -1,5 +1,5 @@
 // Data structure that will store the friends data
-var friendsArray = [
+var teamsArray = [
 	{
 		name: 'Arizona Cardinals',
 		photo: 'https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022014/untitled-1_206.png?itok=rS-00NKD',
@@ -491,4 +491,4 @@ var friendsArray = [
 	}
 ];
 
-module.exports = friendsArray;
+module.exports = teamsArray;
