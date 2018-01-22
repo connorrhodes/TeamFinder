@@ -34,7 +34,7 @@ module.exports = function(app) {    //https://nodejs.org/api/modules.html#module
 			}
 		}
 		// Add new user
-		friends.push(userInput);
+		teams.push(userInput);
 		// Send response
 		res.json({status: 'OK', matchName: matchName, matchImage: matchImage}); //https://www.npmjs.com/package/res-json
 	});
