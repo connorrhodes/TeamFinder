@@ -6,9 +6,9 @@ var teamsArray = [
 		scores: [
 			'1',
 			'1',
-			'5',
+			'4',
 			'1',
-			'5',
+			'3',
 			'5',
 			'1',
 			'1',
@@ -22,9 +22,9 @@ var teamsArray = [
 		scores: [
 			'5',
 			'1',
+			'3',
 			'1',
-			'1',
-			'1',
+			'3',
 			'1',
 			'1',
 			'2',
@@ -38,7 +38,7 @@ var teamsArray = [
 		scores: [
 			'9',
 			'2',
-			'5',
+			'2',
 			'1',
 			'1',
 			'5',
@@ -54,9 +54,9 @@ var teamsArray = [
 		scores: [
 			'15',
 			'2',
+			'3',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -70,9 +70,9 @@ var teamsArray = [
 		scores: [
 			'16',
 			'1',
-			'5',
-			'1',
 			'3',
+			'1',
+			'1',
 			'2',
 			'5',
 			'1',
@@ -86,9 +86,9 @@ var teamsArray = [
 		scores: [
 			'6',
 			'1',
-			'4',
 			'2',
-			'4',
+			'2',
+			'1',
 			'4',
 			'3',
 			'2',
@@ -104,7 +104,7 @@ var teamsArray = [
 			'2',
 			'3',
 			'1',
-			'5',
+			'1',
 			'1',
 			'3',
 			'1',
@@ -118,9 +118,9 @@ var teamsArray = [
 		scores: [
 			'17',
 			'2',
+			'2',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -136,7 +136,7 @@ var teamsArray = [
 			'1',
 			'1',
 			'1',
-			'1',
+			'3',
 			'1',
 			'1',
 			'1',
@@ -149,9 +149,9 @@ var teamsArray = [
 		scores: [
 			'3',
 			'2',
+			'1',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -164,9 +164,9 @@ var teamsArray = [
 		scores: [
 			'11',
 			'1',
+			'3',
 			'5',
-			'5',
-			'5',
+			'2',
 			'5',
 			'5',
 			'5',
@@ -179,9 +179,9 @@ var teamsArray = [
 		scores: [
 			'22',
 			'1',
+			'3',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -194,9 +194,9 @@ var teamsArray = [
 		scores: [
 			'20',
 			'2',
+			'4',
 			'5',
-			'5',
-			'5',
+			'3',
 			'5',
 			'5',
 			'5',
@@ -209,9 +209,9 @@ var teamsArray = [
 		scores: [
 			'7',
 			'2',
+			'3',
 			'5',
-			'5',
-			'5',
+			'3',
 			'5',
 			'5',
 			'5',
@@ -224,9 +224,9 @@ var teamsArray = [
 		scores: [
 			'4',
 			'2',
+			'4',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -239,9 +239,9 @@ var teamsArray = [
 		scores: [
 			'13',
 			'2',
+			'2',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -254,9 +254,9 @@ var teamsArray = [
 		scores: [
 			'2',
 			'2',
+			'4',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -269,9 +269,9 @@ var teamsArray = [
 		scores: [
 			'2',
 			'1',
+			'4',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -284,9 +284,9 @@ var teamsArray = [
 		scores: [
 			'4',
 			'2',
+			'3',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -299,9 +299,9 @@ var teamsArray = [
 		scores: [
 			'12',
 			'1',
+			'3',
 			'5',
-			'5',
-			'5',
+			'2',
 			'5',
 			'5',
 			'5',
@@ -314,9 +314,9 @@ var teamsArray = [
 		scores: [
 			'10',
 			'2',
+			'1',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -329,9 +329,9 @@ var teamsArray = [
 		scores: [
 			'8',
 			'1',
+			'2',
 			'5',
-			'5',
-			'5',
+			'2',
 			'5',
 			'5',
 			'5',
@@ -344,9 +344,9 @@ var teamsArray = [
 		scores: [
 			'15',
 			'1',
+			'2',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -359,9 +359,9 @@ var teamsArray = [
 		scores: [
 			'15',
 			'2',
+			'3',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -374,9 +374,9 @@ var teamsArray = [
 		scores: [
 			'2',
 			'2',
+			'2',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -389,9 +389,9 @@ var teamsArray = [
 		scores: [
 			'18',
 			'1',
+			'2',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -404,9 +404,9 @@ var teamsArray = [
 		scores: [
 			'18',
 			'2',
+			'1',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -419,9 +419,9 @@ var teamsArray = [
 		scores: [
 			'2',
 			'1',
+			'2',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -434,9 +434,9 @@ var teamsArray = [
 		scores: [
 			'21',
 			'1',
+			'2',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -449,9 +449,9 @@ var teamsArray = [
 		scores: [
 			'4',
 			'1',
+			'4',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -464,9 +464,9 @@ var teamsArray = [
 		scores: [
 			'19',
 			'2',
+			'4',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -479,9 +479,9 @@ var teamsArray = [
 		scores: [
 			'9',
 			'1',
+			'2',
 			'5',
-			'5',
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -508,39 +508,40 @@ var teamsArray = [
 
 module.exports = teamsArray;
 
-//Fanbases             //Stadiums
+//Fanbases             //Stadiums -- Type
 //1 - Dallas
-//2 - Patriots			//Cowboys
-//3 - Packers			//Seahawks
-//4 - Steelers			//Steelers
-//5 - Broncos    -- 1^	//Packers
-//6 - Raiders			//Falcons   -- 1^
-//7 - Seahawks			//Vikings
-//8 - Chicago			//Dolphins
-//9 - Giants			//Colts
-//10 - Philadelphia		//Patriots
-//11 - Ravens			//Ravens
-//12 - Redskins			//Buccaneers
-//13 - 49ers			//Chiefs
-//14 - Browns			//Cardinals
-//15 - Chiefs			//Texans
-//16 - Saints    -- 2^	//Lions
-//17 - Bengals			//Chargers  -- 2^
-//18 - Panthers			//Giants and Jets
-//19 - Jets				//Broncos
-//20 - Lions			//Bengals
-//21 - Bills			//Browns
-//22 - Vikings			//49ers
-//23 - Dolphins			//Red Skins
-//24 - Falcons			//Titans
-//25 - Colts     -- 3^	//Panthers
-//26 - Texans			//Eagles   -- 3^
-//27 - Cardinals		//Bears
-//28 - Buccaneers		//Jaguars
-//29 - Titans			//Saints
-//30 - Jaguars			//Bills 
-//31 - Chargers			//Los Angeles Rams
-//32 - Rams      -- 4^	//Oakland  -- 4^
+//2 - Patriots			//Cowboys -- Retractable
+//3 - Packers			//Seahawks -- Open
+//4 - Steelers			//Steelers -- Open
+//5 - Broncos    -- 1^	//Packers -- Open
+//6 - Raiders			//Falcons   -- 1^ Retractable
+//7 - Seahawks			//Vikings -- Fixed
+//8 - Chicago			//Dolphins -- Open
+//9 - Giants			//Colts -- Retractable
+//10 - Philadelphia		//Patriots -- Open
+//11 - Ravens			//Ravens -- Open
+//12 - Redskins			//Buccaneers -- Open
+//13 - 49ers			//Chiefs -- Open
+//14 - Browns			//Cardinals -- Retractable
+//15 - Chiefs			//Texans -- Retractable
+//16 - Saints    -- 2^	//Lions -- Fixed
+//17 - Bengals			//Chargers  -- 2^ Open
+//18 - Panthers			//Giants and Jets -- Open
+//19 - Jets				//Broncos -- Open
+//20 - Lions			//Bengals -- Open
+//21 - Bills			//Browns -- Open
+//22 - Vikings			//49ers -- Open
+//23 - Dolphins			//Red Skins -- Open
+//24 - Falcons			//Titans -- Open
+//25 - Colts     -- 3^	//Panthers -- Open
+//26 - Texans			//Eagles   -- 3^Open
+//27 - Cardinals		//Bears -- Open
+//28 - Buccaneers		//Jaguars -- Open
+//29 - Titans			//Saints -- Fixed
+//30 - Jaguars			//Bills -- Open
+//31 - Chargers			//Los Angeles Rams -- Open
+//32 - Rams      -- 4^	//Oakland  -- 4^ Open
+							//Open - 1  Fixed - 2   Retractable - 3
 
 
 
