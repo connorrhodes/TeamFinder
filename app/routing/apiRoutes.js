@@ -18,7 +18,7 @@ module.exports = function(app) {    //https://nodejs.org/api/modules.html#module
 		var matchName = '';
 		var matchImage = '';
 		var totalDifference = 40000; // Make the initial value big for comparison
-
+        var matchLink = '';
 		// Examine all existing friends in the list
 		for (var i = 0; i < teams.length; i++) {	
 			// Compute differenes for each question, hence the new var variable for the For loop
@@ -30,12 +30,13 @@ module.exports = function(app) {    //https://nodejs.org/api/modules.html#module
 			if (diff < totalDifference) {	
 				totalDifference = diff;
 				matchName = teams[i].name;
-				matchImage = teams[i].photo;
+                matchImage = teams[i].photo;
+                matchLink = teams[i].link;
 			}
 		}
 		// Add new user
 		teams.push(userInput);
 		// Send response
-		res.json({status: 'OK', matchName: matchName, matchImage: matchImage}); //https://www.npmjs.com/package/res-json
+		res.json({status: 'OK', matchName: matchName, matchImage: matchImage, matchLink: matchLink}); //https://www.npmjs.com/package/res-json
 	});
 };

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Friend Finder</title>
+    <title>NFL Team Finder</title> 
     <!-- Link to the jQuery Library -->
     <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <!-- Including Font Awesome Icons -->
@@ -153,27 +153,26 @@
 
                         <div class="input-field col s12">
                             
-                            <h5>In a discussion, truth should be more important than people’s sensitivities.</h5>
+                            <h5>How much are you willing to spend on gameday</h5>
                             <select id="question7">
                                 <option value="" disabled selected>Choose your option</option>
-                                <option value="1">1 (Strongly Disagree)</option>
-                                <option value="2">2</option>
-                                <option value="3">3</option>
-                                <option value="4">4</option>
-                                <option value="5">5 (Strongly Agree)</option>
+                                <option value="1">$160 - $200</option>
+                                <option value="2">$200 - $250</option>
+                                <option value="3">Game day has no price</option>
                             </select>
                         </div>
 
                         <div class="input-field col s12">
                             
-                            <h5>You rarely get carried away by fantasies and ideas.</h5>
+                            <h5>How competitive would you like your team to be</h5>
                             <select id="question8">
                                 <option value="" disabled selected>Choose your option</option>
-                                <option value="1">1 (Strongly Disagree)</option>
-                                <option value="2">2</option>
-                                <option value="3">3</option>
-                                <option value="4">4</option>
-                                <option value="5">5 (Strongly Agree)</option>
+                                <option value="1">I'm a Patriot fan</option>
+                                <option value="2">I love to win and hate to lose!</option>
+                                <option value="3">Winning is great and losing builds character</option>
+                                <option value="4">I don't care about winning or losing, I just want to watch my team</option>
+                                <option value="5">Football Sunday's suck</option>
+                                <option value="6">I'm a Brown's Fan</option>
                             </select>
                         </div>
 
@@ -241,7 +240,11 @@
             <h4>Closest Team Match</h4>
             <div class="divider"></div>
             <h5 id="userMatch"></h5>
-            <img id="userMatchImage" class="materialboxed" width="650" src="">
+            <img id="userMatchImage" class="materialboxed" width="250" height="200" src="">
+            
+        </div>
+        <div>
+                <a href="#!" id="userMatchLink"class="modal-action modal-close waves-effect waves-green btn-flat">Link to your team</a>
         </div>
         <div class="modal-footer">
             <a href="/survey" class="modal-action modal-close waves-effect waves-green btn-flat">Fill Again!</a><!--href to survey.html gives the same result -->
@@ -288,6 +291,7 @@
                     // Set the name and image values of team match
                     $('#userMatch').html(data.matchName);  //http://api.jquery.com/html/
                     $("#userMatchImage").attr("src", data.matchImage);//http://api.jquery.com/attr/
+                    $('#userMatchLink').html("<a href="+data.matchLink+" target='_blank'>"+data.matchLink+"</a>");
                     // Pop open the modal dialog
                     $('#modal1').modal('open');
                 });
