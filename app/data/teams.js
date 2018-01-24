@@ -14,7 +14,9 @@ var teamsArray = [
 			'3',
 			'1',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=ARI',
+		link2: 'http://www.azcardinals.com/'
 	},
 	{
 		name: 'Atlanta Falcons',
@@ -30,7 +32,9 @@ var teamsArray = [
 			'3',
 			'1',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=ATL',
+		link2: 'http://www.atlantafalcons.com/'
 	},
 	{
 		name: 'Baltimore Ravens',
@@ -46,7 +50,8 @@ var teamsArray = [
 			'3',
 			'1',
 			'1'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=BAL'
 	},
 	{
 		name: 'Buffalo Bills',
@@ -62,7 +67,8 @@ var teamsArray = [
 			'5',
 			'5',
 			'1'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=BUF'
 	},
 	{
 		name: 'Carolina Panthers',
@@ -78,7 +84,8 @@ var teamsArray = [
 			'3',
 			'1',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=CAR'
 	},
 	{
 		name: 'Chicago Bears',
@@ -94,7 +101,8 @@ var teamsArray = [
 			'4',
 			'3',
 			'3'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=CHI'
 	},
 	{
 		name: 'Cincinnati Bengals',
@@ -110,7 +118,8 @@ var teamsArray = [
 			'3',
 			'1',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=CIN'
 	},
 	{
 		name: 'Cleveland Browns',
@@ -126,7 +135,8 @@ var teamsArray = [
 			'6',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=CLE'
 	},
 	{
 		name: 'Dallas Cowboys',
@@ -142,7 +152,8 @@ var teamsArray = [
 			'2',
 			'1',
 			'1'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=DAL'
 	},{
 		name: 'Denver Broncos',
 		photo: 'https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Broncos_Alternate_logo.gif/revision/latest?cb=20131104164121',
@@ -157,7 +168,8 @@ var teamsArray = [
 			'2',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=DEN'
 	},{
 		name: 'Detriot Lions',
 		photo: 'https://static.wixstatic.com/media/c01557_26703973a59e49eda194af809deb6a8d~mv2.jpg',
@@ -172,7 +184,8 @@ var teamsArray = [
 			'5',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=DET'
 	},{
 		name: 'Green Bay Packers',
 		photo: 'https://fontmeme.com/images/packers-football-logo.jpg',
@@ -187,7 +200,8 @@ var teamsArray = [
 			'2',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=GB'
 	},{
 		name: 'Houston Texans',
 		photo: 'http://houstonsportsinsider.com/sites/default/files/styles/large/public/httpwww.sports-logos-screensavers.comuserHouston_Texans4_1.jpg?itok=y_8qXJ6n',
@@ -202,7 +216,8 @@ var teamsArray = [
 			'3',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=HOU'
 	},{
 		name: 'Indianapolis Colts',
 		photo: 'http://www.sportsecyclopedia.com/nfl/indy/Coltsscript.gif',
@@ -217,7 +232,8 @@ var teamsArray = [
 			'2',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=IND'
 	},{
 		name: 'Jacksonville Jaguars',
 		photo: 'https://i0.wp.com/www.assuresign.com/app/uploads/2017/06/admin-ajax-1.jpg?fit=400%2C300&ssl=1',
@@ -232,7 +248,8 @@ var teamsArray = [
 			'5',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=JAX'
 	},{
 		name: 'Kansas City Chiefs',
 		photo: 'https://cdn7.bigcommerce.com/s-a4w28t94lu/images/stencil/1280x1280/products/77486/84543/62395-kansas-city-chiefs-lunch-napkins__80811.1492707556.jpg?c=2',
@@ -247,7 +264,8 @@ var teamsArray = [
 			'4',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=KC'
 	},{
 		name: 'Los Angeles Chargers',
 		photo: 'https://sc-events.s3.amazonaws.com/52186/main.gif',
@@ -262,7 +280,8 @@ var teamsArray = [
 			'3',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=LAC'
 	},{
 		name: 'Los Angeles Rams',
 		photo: 'https://www.awesomesportslogos.com/prodImages/2016/LosAngelesRams.png',
@@ -277,7 +296,8 @@ var teamsArray = [
 			'5',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=LA'
 	},{
 		name: 'Miami Dolphins',
 		photo: 'http://media.miamiherald.com/static/media/projects/2015/fins-at-50/logos/img/thumb/1997.jpg',
@@ -292,7 +312,8 @@ var teamsArray = [
 			'4',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=MIA'
 	},{
 		name: 'Minnesota Vikings',
 		photo: 'https://www.festisite.com/static/partylogo/img/logos/vikings.png',
@@ -307,7 +328,8 @@ var teamsArray = [
 			'3',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=MIN'
 	},{
 		name: 'New England Patriots',
 		photo: 'http://moziru.com/images/logo-clipart-new-england-patriots-2.gif',
@@ -322,7 +344,8 @@ var teamsArray = [
 			'1',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=NE'
 	},{
 		name: 'New Orleans Saints',
 		photo: 'http://wherewhodatsshop.com/4008-large_default/new-orleans-saints-1975-circle-logo-hardboard-wooden-sign.jpg',
@@ -337,7 +360,8 @@ var teamsArray = [
 			'2',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=NO'
 	},{
 		name: 'New York Giants',
 		photo: 'https://i.pinimg.com/236x/54/b2/cf/54b2cf1311abf117896ffcfb04c517e1--giants-football-new-york-giants.jpg',
@@ -352,7 +376,8 @@ var teamsArray = [
 			'3',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=NYG'
 	},{
 		name: 'New York Jets',
 		photo: 'https://betanews.com/wp-content/uploads/2013/03/Jets-Pin-Pro-300x300.jpg',
@@ -367,7 +392,8 @@ var teamsArray = [
 			'4',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=NYJ'
 	},{
 		name: 'Oakland Raiders',
 		photo: 'https://sep.yimg.com/ay/oaklandraiders/oakland-raiders-12-inch-shield-magnet-12.jpg',
@@ -382,7 +408,8 @@ var teamsArray = [
 			'5',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=OAK'
 	},{
 		name: 'Philadelphia Eagles',
 		photo: 'https://vignette.wikia.nocookie.net/legostarwars/images/b/bf/Eagles.png/revision/latest?cb=20070831165944',
@@ -397,7 +424,8 @@ var teamsArray = [
 			'3',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=PHI'
 	},{
 		name: 'Pittsburgh Steelers',
 		photo: 'https://i.pinimg.com/736x/b6/57/45/b657457dac196dfe1e3cb4ffdd1879b0--football-banner-steelers-football.jpg',
@@ -412,7 +440,8 @@ var teamsArray = [
 			'2',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=PIT'
 	},{
 		name: 'San Fransisco 49ers',
 		photo: 'https://static1.squarespace.com/static/558e0af0e4b01c6273e72ab4/t/561c4896e4b0faa8c8494568/1444694189234/SAN-FRANCISCO-49ERS',
@@ -427,7 +456,8 @@ var teamsArray = [
 			'4',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=SF'
 	},{
 		name: 'Seattle Seahawks',
 		photo: 'https://www.microbytecorp.com/bsf-images/nfl/Seahawks.png',
@@ -442,7 +472,8 @@ var teamsArray = [
 			'3',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=SEA'
 	},{
 		name: 'Tampa Bay Buccaneers',
 		photo: 'https://images.vexels.com/media/users/3/142046/isolated/preview/c7f9ce5cc93d7f6bf233b170af8a3dae-tampa-bay-buccaneers-american-football-by-vexels.png',
@@ -457,7 +488,8 @@ var teamsArray = [
 			'5',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=TB'
 	},{
 		name: 'Tennessee Titans',
 		photo: 'https://www.irononsticker.com/images/nfl/STK-NFL-TET-A1999-02.jpg',
@@ -472,7 +504,8 @@ var teamsArray = [
 			'4',
 			'5',
 			'5'
-		]
+		],
+		link: 'http://www.nfl.com/teams/profile?team=TEN'
 	},{
 		name: 'Washington Redskins',
 		photo: 'http://www.sportsjourney.com/wp-content/uploads/Redskins-logo-flag.jpg',
