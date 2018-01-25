@@ -11,9 +11,8 @@ var teamsArray = [
 			'3',
 			'2',
 			'2',
-			'3',
-			'1',
-			'5'
+			'3'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=ARI',
 		link2: 'http://www.azcardinals.com/'
@@ -29,9 +28,8 @@ var teamsArray = [
 			'3',
 			'1',
 			'2',
-			'3',
-			'1',
-			'5'
+			'3'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=ATL',
 		link2: 'http://www.atlantafalcons.com/'
@@ -47,9 +45,8 @@ var teamsArray = [
 			'1',
 			'3',
 			'3',
-			'3',
-			'1',
-			'1'
+			'3'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=BAL'
 	},
@@ -64,9 +61,8 @@ var teamsArray = [
 			'1',
 			'2',
 			'2',
-			'5',
-			'5',
-			'1'
+			'5'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=BUF'
 	},
@@ -81,9 +77,8 @@ var teamsArray = [
 			'1',
 			'1',
 			'2',
-			'3',
-			'1',
-			'5'
+			'3'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=CAR'
 	},
@@ -98,9 +93,8 @@ var teamsArray = [
 			'1',
 			'3',
 			'3',
-			'4',
-			'3',
-			'3'
+			'4'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=CHI'
 	},
@@ -115,9 +109,8 @@ var teamsArray = [
 			'1',
 			'1',
 			'1',
-			'3',
-			'1',
-			'5'
+			'3'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=CIN'
 	},
@@ -132,9 +125,8 @@ var teamsArray = [
 			'1',
 			'1',
 			'1',
-			'6',
-			'5',
-			'5'
+			'6'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=CLE'
 	},
@@ -149,9 +141,8 @@ var teamsArray = [
 			'3',
 			'3',
 			'3',
-			'2',
-			'1',
-			'1'
+			'2'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=DAL'
 	},{
@@ -165,9 +156,8 @@ var teamsArray = [
 			'1',
 			'3',
 			'3',
-			'2',
-			'5',
-			'5'
+			'2'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=DEN'
 	},{
@@ -181,9 +171,8 @@ var teamsArray = [
 			'2',
 			'2',
 			'2',
-			'5',
-			'5',
 			'5'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=DET'
 	},{
@@ -197,9 +186,8 @@ var teamsArray = [
 			'1',
 			'2',
 			'3',
-			'2',
-			'5',
-			'5'
+			'2'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=GB'
 	},{
@@ -213,9 +201,8 @@ var teamsArray = [
 			'3',
 			'2',
 			'3',
-			'3',
-			'5',
-			'5'
+			'3'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=HOU'
 	},{
@@ -229,9 +216,8 @@ var teamsArray = [
 			'3',
 			'2',
 			'2',
-			'2',
-			'5',
-			'5'
+			'2'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=IND'
 	},{
@@ -245,9 +231,8 @@ var teamsArray = [
 			'1',
 			'1',
 			'1',
-			'5',
-			'5',
 			'5'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=JAX'
 	},{
@@ -261,9 +246,8 @@ var teamsArray = [
 			'1',
 			'1',
 			'2',
-			'4',
-			'5',
-			'5'
+			'4'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=KC'
 	},{
@@ -277,9 +261,8 @@ var teamsArray = [
 			'1',
 			'2',
 			'2',
-			'3',
-			'5',
-			'5'
+			'3'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=LAC'
 	},{
@@ -293,9 +276,8 @@ var teamsArray = [
 			'1',
 			'1',
 			'1',
-			'5',
-			'5',
 			'5'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=LA'
 	},{
@@ -309,9 +291,8 @@ var teamsArray = [
 			'1',
 			'2',
 			'3',
-			'4',
-			'5',
-			'5'
+			'4'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=MIA'
 	},{
@@ -325,9 +306,8 @@ var teamsArray = [
 			'2',
 			'2',
 			'2',
-			'3',
-			'5',
-			'5'
+			'3'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=MIN'
 	},{
@@ -341,9 +321,8 @@ var teamsArray = [
 			'1',
 			'3',
 			'3',
-			'1',
-			'5',
-			'5'
+			'1'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=NE'
 	},{
@@ -357,9 +336,8 @@ var teamsArray = [
 			'2',
 			'2',
 			'3',
-			'2',
-			'5',
-			'5'
+			'2'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=NO'
 	},{
@@ -373,9 +351,8 @@ var teamsArray = [
 			'1',
 			'3',
 			'3',
-			'3',
-			'5',
-			'5'
+			'3'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=NYG'
 	},{
@@ -389,9 +366,8 @@ var teamsArray = [
 			'1',
 			'3',
 			'3',
-			'4',
-			'5',
-			'5'
+			'4'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=NYJ'
 	},{
@@ -405,9 +381,8 @@ var teamsArray = [
 			'1',
 			'1',
 			'2',
-			'5',
-			'5',
 			'5'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=OAK'
 	},{
@@ -421,9 +396,8 @@ var teamsArray = [
 			'1',
 			'2',
 			'3',
-			'3',
-			'5',
-			'5'
+			'3'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=PHI'
 	},{
@@ -437,9 +411,8 @@ var teamsArray = [
 			'1',
 			'2',
 			'3',
-			'2',
-			'5',
-			'5'
+			'2'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=PIT'
 	},{
@@ -453,9 +426,8 @@ var teamsArray = [
 			'1',
 			'3',
 			'3',
-			'4',
-			'5',
-			'5'
+			'4'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=SF'
 	},{
@@ -469,9 +441,8 @@ var teamsArray = [
 			'1',
 			'2',
 			'3',
-			'3',
-			'5',
-			'5'
+			'3'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=SEA'
 	},{
@@ -485,9 +456,8 @@ var teamsArray = [
 			'1',
 			'1',
 			'2',
-			'5',
-			'5',
 			'5'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=TB'
 	},{
@@ -501,9 +471,8 @@ var teamsArray = [
 			'1',
 			'1',
 			'1',
-			'4',
-			'5',
-			'5'
+			'4'
+			
 		],
 		link: 'http://www.nfl.com/teams/profile?team=TEN'
 	},{
@@ -517,9 +486,8 @@ var teamsArray = [
 			'1',
 			'3',
 			'3',
-			'5',
-			'5',
 			'5'
+			
         ],
         link: 'http://www.nfl.com/teams/washingtonredskins/profile?team=WAS'
 	},{
@@ -533,9 +501,8 @@ var teamsArray = [
 			'1',
 			'1',
 			'1',
-			'1',
-			'1',
 			'1'
+			
 		]
 	}
 ];
