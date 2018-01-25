@@ -8,7 +8,7 @@ var teamsArray = [
 			'1',
 			'4',
 			'4',
-			'3',
+			'4',
 			'2',
 			'2',
 			'3'
@@ -25,7 +25,7 @@ var teamsArray = [
 			'1',
 			'3',
 			'3',
-			'3',
+			'4',
 			'1',
 			'2',
 			'3'
@@ -74,7 +74,7 @@ var teamsArray = [
 			'1',
 			'3',
 			'3',
-			'1',
+			'2',
 			'1',
 			'2',
 			'3'
@@ -138,7 +138,7 @@ var teamsArray = [
 			'1',
 			'1',
 			'1',
-			'3',
+			'4',
 			'3',
 			'3',
 			'2'
@@ -168,7 +168,7 @@ var teamsArray = [
 			'1',
 			'3',
 			'3',
-			'2',
+			'3',
 			'2',
 			'2',
 			'5'
@@ -198,7 +198,7 @@ var teamsArray = [
 			'2',
 			'4',
 			'4',
-			'3',
+			'4',
 			'2',
 			'3',
 			'3'
@@ -213,7 +213,7 @@ var teamsArray = [
 			'2',
 			'3',
 			'3',
-			'3',
+			'4',
 			'2',
 			'2',
 			'2'
@@ -228,7 +228,7 @@ var teamsArray = [
 			'2',
 			'4',
 			'4',
-			'1',
+			'2',
 			'1',
 			'1',
 			'5'
@@ -258,7 +258,7 @@ var teamsArray = [
 			'2',
 			'4',
 			'4',
-			'1',
+			'2',
 			'2',
 			'2',
 			'3'
@@ -273,7 +273,7 @@ var teamsArray = [
 			'1',
 			'4',
 			'4',
-			'1',
+			'2',
 			'1',
 			'1',
 			'5'
@@ -288,7 +288,7 @@ var teamsArray = [
 			'2',
 			'3',
 			'3',
-			'1',
+			'2',
 			'2',
 			'3',
 			'4'
@@ -303,7 +303,7 @@ var teamsArray = [
 			'1',
 			'3',
 			'3',
-			'2',
+			'3',
 			'2',
 			'2',
 			'3'
@@ -333,7 +333,7 @@ var teamsArray = [
 			'1',
 			'2',
 			'2',
-			'2',
+			'3',
 			'2',
 			'3',
 			'2'
@@ -378,7 +378,7 @@ var teamsArray = [
 			'2',
 			'2',
 			'2',
-			'1',
+			'2',
 			'1',
 			'2',
 			'5'
@@ -423,7 +423,7 @@ var teamsArray = [
 			'1',
 			'2',
 			'2',
-			'1',
+			'2',
 			'3',
 			'3',
 			'4'
@@ -453,7 +453,7 @@ var teamsArray = [
 			'1',
 			'4',
 			'4',
-			'1',
+			'2',
 			'1',
 			'2',
 			'5'
@@ -468,7 +468,7 @@ var teamsArray = [
 			'2',
 			'4',
 			'4',
-			'1',
+			'2',
 			'1',
 			'1',
 			'4'
@@ -516,18 +516,18 @@ module.exports = teamsArray;
 //3 - Packers			//Seahawks -- Open -- 252.40 -- 88.20
 //4 - Steelers			//Steelers -- Open -- 263.12 -- 93.56
 //5 - Broncos    -- 1^	//Packers -- Open -- 266.44 -- 94.47
-//6 - Raiders			//Falcons   -- 1^ Retractable -- 215.66 -- 78.83
+//6 - Raiders			//Falcons   -- 5^ Retractable -- 215.66 -- 78.83
 //7 - Seahawks			//Vikings -- Fixed -- 224.34 -- 91.67
 //8 - Chicago			//Dolphins -- Open -- 252 -- 98.25
 //9 - Giants			//Colts -- Retractable -- 230.38 -- 87.44
 //10 - Philadelphia		//Patriots -- Open -- 331.96 -- 130.73
 //11 - Ravens			//Ravens -- Open -- 303.22 -- 112.11
-//12 - Redskins			//Buccaneers -- Open -- 210.22 -- 74.11
+//12 - Redskins			//Buccaneers --4^ Open -- 210.22 -- 74.11
 //13 - 49ers			//Chiefs -- Open -- 214.08 -- 73.79
 //14 - Browns			//Cardinals -- Retractable -- 220.72 -- 87.86
 //15 - Chiefs			//Texans -- Retractable -- 255.46 -- 94.73
 //16 - Saints    -- 2^	//Lions -- Fixed -- 231.92 -- 85.71
-//17 - Bengals			//Chargers  -- 2^ Open -- 230 -- 100
+//17 - Bengals			//Chargers  -- 3^ Open -- 230 -- 100
 //18 - Panthers			//Giants and Jets -- Open -- 304.80 -- 123.40 -- 274.08 -- 110.54 
 //19 - Jets				//Broncos -- Open -- 290.50 -- 114
 //20 - Lions			//Bengals -- Open -- 202.26 -- 74.13
@@ -536,13 +536,13 @@ module.exports = teamsArray;
 //23 - Dolphins			//Red Skins -- Open -- 336.54 -- 119.52
 //24 - Falcons			//Titans -- Open -- 194.30 -- 67.15
 //25 - Colts     -- 3^	//Panthers -- Open -- 208.08 -- 79.04
-//26 - Texans			//Eagles   -- 3^Open -- 268.38 -- 98.69
+//26 - Texans			//Eagles   -- 2^Open -- 268.38 -- 98.69
 //27 - Cardinals		//Bears -- Open -- 351.30 -- 131.90
 //28 - Buccaneers		//Jaguars -- Open -- 190.72 -- 61.36
 //29 - Titans			//Saints -- Fixed -- 256 -- 91.25
 //30 - Jaguars			//Bills -- Open -- 244.36 -- 88.18
 //31 - Chargers			//Los Angeles Rams -- Open -- 201.92 -- 72.21
-//32 - Rams      -- 4^	//Oakland  -- 4^ Open --217.56 -- 71.03
+//32 - Rams      -- 4^	//Oakland  -- 1^ Open --217.56 -- 71.03
 							//Open - 1  Fixed - 2   Retractable - 3
 							//60-80 - 1  80-100 - 2 ++ - 3
 							//10-Season-Record
