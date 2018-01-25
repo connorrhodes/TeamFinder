@@ -503,7 +503,8 @@ var teamsArray = [
 			'1',
 			'1'
 			
-		]
+		],
+		link:'https://www.buzzfeed.com/chelseamarshall/how-basic-are-you?utm_term=.qwPKgDZ92#.jrrVb42yL'
 	}
 ];
 
